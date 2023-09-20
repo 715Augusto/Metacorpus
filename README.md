@@ -4,7 +4,7 @@ Atividade da disciplina de Empreendimentos Inovadores
 <H2>Objetivo</H2>
 O objetivo deste projeto é desenvolver de um sistema que permitirá que os usuários se cadastrem gratuitamente e tenham acesso a uma variedade de recursos, incluindo artigos, programação de treinos, registro de medidas e análise de resultados. Este sistema visa fornecer aos usuários uma plataforma abrangente para alcançar seus objetivos de saúde e bem-estar.
 
-<H3>Escopo</H3>
+<H3>Escopo Visual</H3>
 <ol>
   <li>
     <H3>Acesso a Conteúdo:</H3>
